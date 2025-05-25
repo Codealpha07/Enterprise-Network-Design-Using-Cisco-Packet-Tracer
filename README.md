@@ -22,4 +22,5 @@ This project implements a secure and scalable enterprise network using Cisco Pac
 <li>Configuring ISP routers.</li>
 <li>Test and Verifying Network Communication.</li>
 <h2>Network Topology Created</h2>
-<img> ![image](https://github.com/user-attachments/assets/d8c08fd3-e23c-4446-90df-cdf7cc2793e9)</img>
+<img src="Model_image.png" alt="Model Image" width="500"/>
+

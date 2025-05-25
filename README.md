@@ -21,6 +21,6 @@ This project implements a secure and scalable enterprise network using Cisco Pac
 <li>Host Device Configurations.</li>
 <li>Configuring ISP routers.</li>
 <li>Test and Verifying Network Communication.</li>
-<h2>Network Topology Created</h2>
-<img src="Model_image.png" alt="Model Image" width="500"/>
+<h2>Network Topology Model</h2>
+<img src="Model_image.png" alt="Model Image" width="900"/>
 
